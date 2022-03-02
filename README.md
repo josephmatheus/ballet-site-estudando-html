@@ -25,7 +25,7 @@
 ---
 ## Autor
 
-   Joseph Matheus Araújo Lima
+   **Joseph Matheus Araújo Lima**
    
    Linkedin:
    https://www.linkedin.com/in/joseph-matheus-39208a109/
